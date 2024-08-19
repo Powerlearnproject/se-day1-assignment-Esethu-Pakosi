@@ -77,8 +77,8 @@
 
 **2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
 
-- **Vague Prompt:** "Tell me about history."
+- **Vague Prompt:** "Give me information on programming."
   
-- **Improved Prompt:** "Provide a summary of the major events in the American Civil War."
+- **Improved Prompt:** "Explain the basics of object-oriented programming, including its main principles."
 
-**Explanation:** The improved prompt is more effective because it specifies the topic (American Civil War) and asks for a summary, which helps the AI focus on providing relevant information. The vagueness of the original prompt could lead to a broad and unfocused response. 
+**Explanation:** The improved prompt is more effective because it specifies the topic (object-oriented programming) and asks for an explanation of its main principles. This clarity helps the AI provide a focused and detailed response, whereas the vague prompt could lead to a broad and potentially irrelevant answer on various aspects of programming.
